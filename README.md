@@ -66,4 +66,4 @@ body {
 
 ## Author
 
-- Frontend Mentor - [@leonardoposillico](https://www.frontendmentor.io/profile/leonardoposillico)
+- Frontend Mentor - [@leonardoposillico](https://www.frontendmentor.io/profile/LelloX-Dev)
